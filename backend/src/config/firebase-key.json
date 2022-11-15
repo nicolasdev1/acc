@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "animal-care-center-c9dbb",
+  "private_key_id": "7ebe2c1e9ce2bb67ce4a106a048964dc2d32d45c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbDeqsI9IjDBcn\nx+D2JZOFekQqM8WqHQTgG32GKAyXjzsJfxADCBErgWAA8DYqo5V9hNts3ViikaEC\nK9FYJJdGM62R0fr3GeY5xlPblGOcGu8r1C+N2uUentS334l6YF3rC56MqpXXO2c+\n8bqsf+WT/D0OJnsXlrdCfvL41hjuR39HAvEufQ1AfFqM/sayOfmlQ9BeZPyssflc\nZuFHVYz4AtqJjEHcCdshuCoF4DdD6XFe/esHJ7OerHqQLxeBcEC2fnzG0NjI7g08\nmI6T5ICDZH95KkgebSxT7bot2coo/jovwRg++bAUDIqdPJoxT+zQ/WIMOWMKLTev\nNTTikWLPAgMBAAECggEACIrHO22LxZ+EZQ4ncBgY3Pkj6TlJ8fnAS4JoM2xgaTcc\nVwUXgjs/CukJO3QAX+/8K9qWZhR5rhccyixUz6jQZq8xKD/rthJIszUgaI/vvuli\n9MSvS/7bsYipimm3vrSxZ+IPfYtmTuG4aejSUm+HW9RBHtby4BVPCkxJIXlWDUZw\nE4/meQbYCPTsQgMof5HDmP2JopbEtjsnJ/SX3gmQOAD3qgKdXwQw83ZI6ZGLzgxW\nUHckvtMcOXDpT7OxybEUqvL6z0lX277Pnv03uQkajP6pCrHwo5/ltQ/IZaCoxlc5\noTD/jRwLszQsuOjvOYJc8CZRVJlIIdwARsqClDxGKQKBgQDWNyTJgNc5xh2NCZr+\n9+vNp3e+BUkPXXrcuqIIgMxIMw4hS4rn/bYLQz1SxaeETEpNWXLl02B5o2CEKShw\nJv48XMuHv8jQuv20h2QLqPtbFpbAZiuLb8SXOcfjtEDbaSbBY5NSBxKd6yimXCqL\n5x0eCHuijBS3QZxX8KNuR33DWQKBgQC5TJBDnqochgl9XErADc/hIkSQjHxxHt49\nxaD7VQX4nQYMPL6jdTUTyNZaC1RugKJXVb0ifO0fEd7AgdPQ6UqaqledMZAoT0Ph\nmk7xlM9Loq0OkXRFzn3yBm/meGNV/G3u0t7FCnIy3UeWm6PBL3YZg/WtkVRfjSN+\nlbVO3c7aZwKBgHKJ9a+QpoQLvI1HD4s5QOorm0kNRm1izGjtmen2BESul+WRoOo+\nrHIFN+rkKJgCus/0/gyJI1Km2tqPr0GYd+QKsgEZuORyt2kp44KgjhW8VEr31lyu\nHG3HxWupW+x1ovVQqtr3USsDLC8XpOA9aUI/wuu8/u6ltFUJJDm5HDOxAoGAfsZZ\nNUpKjHVP7MrGAZvxi9BMJLFZOnOqDY021H2ZNj0INDsjGuZHyB9yN+zkeS3c4++v\nFPdvrAAn7IFmj9nsxuCgTNXqEQoaITHXrQToxpCn4f22FURverTYvk/DdsLb27e9\n3gWFmDM4lVwqrzNvk4lq/rMdjLodfK+kei7bJSUCgYEAkfCS2ZDKN5y7xxHZUT/b\nVFiMGQFpGZTC7/SDBOnZfAo2dTcqL72j134zsDJrZ53ZBKJ6IJp6+rxfdF7sNxDU\nt7iXl5Euw7+9CqvarYiinTvD899rmZRf+Okj/DQgJtPP1PrP7+5lQRjLcENJvF/G\n0n9/MBwIg4kCw1QubYjzLsA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ewxgt@animal-care-center-c9dbb.iam.gserviceaccount.com",
+  "client_id": "110969992889884786812",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ewxgt%40animal-care-center-c9dbb.iam.gserviceaccount.com"
+}

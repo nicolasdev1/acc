@@ -1,0 +1,3 @@
+class UpdatePetController {}
+
+export { UpdatePetController };

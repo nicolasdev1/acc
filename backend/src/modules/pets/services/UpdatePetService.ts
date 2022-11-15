@@ -1,0 +1,5 @@
+class UpdatePetService {
+  // ...
+}
+
+export { UpdatePetService };
