@@ -6,7 +6,8 @@
     "dev": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "generate:apk": "eas build -p android --profile preview"
   },
   "dependencies": {
     "@expo-google-fonts/inter": "^0.2.2",
@@ -19,6 +20,8 @@
     "axios": "^1.1.2",
     "chokidar": "^2.1.8",
     "dotenv": "^16.0.3",
+    "eas": "^0.1.0",
+    "eas-cli": "^2.7.1",
     "expo": "~46.0.16",
     "expo-camera": "~12.3.0",
     "expo-cli": "^6.0.5",
