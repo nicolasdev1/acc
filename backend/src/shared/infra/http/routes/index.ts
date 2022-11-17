@@ -8,4 +8,6 @@ const router = Router();
 router.use("/users", usersRoutes);
 router.use("/pets", petsRoutes);
 
+router.use("/", (request, response) => response.json({ message: "API is running..." }));
+
 export { router };
